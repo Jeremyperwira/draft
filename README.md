@@ -1,8 +1,9 @@
-### Project Overview
+## Project Overview
 Project ini merupakan project future start-up yang sedang dalam tahap pengembangan.Untuk informasi lebih lengkap
 silahkan mengakses https://urbanstadia.com
 
-## Tech Information'
+## Tech Information
+
 # Framework
 Project ini mengunakan framework "React Native" Expo-CLI dan akan dimigrate/convert ke React-CLI kedepannya.
 
