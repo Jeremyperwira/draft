@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "UrbanstadiaReact",
-    "slug": "UrbanstadiaReact",
-    "version": "1.0.0",
+    "name": "Project",
+    "slug": "Project",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,14 +17,14 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sanbercode.Cargox",
+      "buildNumber": "1.0.0"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
-    },
+      "package": "com.sanbercode.Cargox",
+      "versionCode": 1
+    }, 
     "web": {
       "favicon": "./assets/favicon.png"
     }
